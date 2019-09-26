@@ -1,4 +1,4 @@
 # my-deep-learning
- broadcasting in numpy
+1. broadcasting in numpy
 
 https://machinelearningmastery.com/broadcasting-with-numpy-arrays/
