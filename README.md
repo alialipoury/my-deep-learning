@@ -1,4 +1,4 @@
 # my-deep-learning
-file for broadcasting
+ broadcasting in numpy
 
 https://machinelearningmastery.com/broadcasting-with-numpy-arrays/
