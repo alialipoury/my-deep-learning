@@ -10,3 +10,8 @@ https://github.com/ceylanmesut/ceylanmesut.github.io/blob/f55f5a407a53793521849e
 3. masut intel image 
 
 https://github.com/ceylanmesut/Image_Detection_Deep_Learning
+
+4.really good tutorial for cnn
+
+http://cs231n.github.io/convolutional-networks/#conv
+
