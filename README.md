@@ -15,3 +15,6 @@ https://github.com/ceylanmesut/Image_Detection_Deep_Learning
 
 http://cs231n.github.io/convolutional-networks/#conv
 
+5.keras cheatsheet
+
+https://keras.io/preprocessing/image/
