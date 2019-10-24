@@ -18,3 +18,5 @@ http://cs231n.github.io/convolutional-networks/#conv
 5.keras cheatsheet
 
 https://keras.io/preprocessing/image/
+
+6.whic activation function
