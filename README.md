@@ -22,3 +22,7 @@ https://keras.io/preprocessing/image/
 6.whic activation function
 
 https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
+
+7.tf.data
+
+https://www.tensorflow.org/tutorials/load_data/images
