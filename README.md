@@ -26,3 +26,7 @@ https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions
 7.tf.data
 
 https://www.tensorflow.org/tutorials/load_data/images
+
+8.data augmentation
+
+https://github.com/ceylanmesut/Image_Detection_Deep_Learning/blob/master/Intel%20Landscape%20Image%20Classification.ipynb
